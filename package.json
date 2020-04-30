@@ -30,7 +30,7 @@
     "exceljs": "^1.12.2",
     "file-saver": "^2.0.2",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.1.1",
     "material-design-icons": "^3.0.1",
